@@ -12,3 +12,18 @@ topics within our training curriculum's technical scope.
 • Ensure that you learn these topics through self-learning and practice alongside the 
 course instructor. It is NOT necessary to cover every topic comprehensively within 
 each section.
+## helloworld
+```
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");    
+    }
+  }
+}
+```
