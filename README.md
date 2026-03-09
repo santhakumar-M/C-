@@ -1,4 +1,4 @@
-Walkthrough the following Udemy course sections and focus on the corresponding 
+### Walkthrough the following Udemy course sections and focus on the corresponding 
 topics within our training curriculum's technical scope. 
 • Section 2: Builder 
 • Section 3: Factories 
